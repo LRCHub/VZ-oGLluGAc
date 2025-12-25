@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Good Luck, Babe!",
+  "base_artist": "Chappell Roan",
+  "createdAt": "2025-12-25T12:52:08.065086Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/01_Good_Luck,_Babe!_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/02_Good_Luck,_Babe!_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Luck, Babe! (Official Lyric Video)",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/03_Good_Luck,_Babe!_(Official_Lyric_Video)_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Good Luck, Babe! (Official Lyric Video)",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/04_Good_Luck,_Babe!_(Official_Lyric_Video)_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chappell Roan - Good Luck, Babe! (Official Lyric Video)",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/05_Chappell_Roan_-_Good_Luck,_Babe!_(Official_Lyric_Video)_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good Luck, Babe! (Official Lyric Video)",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/06_Good_Luck,_Babe!_(Official_Lyric_Video)_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/07_Good_Luck,_Babe!_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Luck, Babe! (Official Lyric Video)",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/08_Good_Luck,_Babe!_(Official_Lyric_Video)_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/09_Good_Luck,_Babe!_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/10_Good_Luck,_Babe!_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chappell Roan - Good Luck, Babe! (Official Lyric Video)",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/11_Chappell_Roan_-_Good_Luck,_Babe!_(Official_Lyric_Video)_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/12_Good_Luck,_Babe!_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/13_Good_Luck,_Babe!_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good Luck, Babe! (Official Lyric Video)",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/14_Good_Luck,_Babe!_(Official_Lyric_Video)_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/15_Good_Luck,_Babe!_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Good Luck, Babe",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/16_Good_Luck,_Babe_Chappell_Roan.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Good Luck, Babe!",
+      "artist": "Reinaeiry",
+      "has_synced": false,
+      "path": "select/17_Good_Luck,_Babe!_Reinaeiry.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "has_synced": true,
+      "path": "select/18_Good_Luck,_Babe!_Chappell_Roan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "has_synced": false,
+      "path": "select/pl_01_Good_Luck,_Babe!_Chappell_Roan.txt"
+    }
+  ]
+}
